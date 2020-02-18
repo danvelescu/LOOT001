@@ -7,5 +7,13 @@
       <jdbc-driver>org.postgresql.Driver</jdbc-driver>
       <jdbc-url>jdbc:postgresql://localhost:5432/forDjango</jdbc-url>
     </data-source>
+    <data-source source="LOCAL" name="Django default" uuid="91b33a13-e838-4bdf-b0ee-f6c4757ffa9b">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <imported>true</imported>
+      <remarks>$PROJECT_DIR$/LOOT001/settings.py</remarks>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://127.0.0.1:5432/forDjango</jdbc-url>
+    </data-source>
   </component>
 </project>
